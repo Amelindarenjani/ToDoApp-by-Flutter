@@ -1,6 +1,6 @@
 # flutter_application_2
 
-A new Flutter project.
+To Do List app by flutter using offline database Hive.
 
 ## Getting Started
 
